@@ -21,7 +21,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A game review plugin to write simple reviews of games catagorized by genres and platforms.
 
-## Installation ==
+## Installation 
 
 1. Upload `gamereviews` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
