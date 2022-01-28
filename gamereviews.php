@@ -8,7 +8,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Game Reviews v2
- * Plugin URI:        gamereviews.com
+ * Plugin URI:        https://github.com/henokgelaneh7217/gamereviewsplugin
  * Description:       Beginner friendly WordPress Game Review plugin.
  * Version:           1.0.0
  * Author:            Henok Gelaneh
